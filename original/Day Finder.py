@@ -1,6 +1,8 @@
 """
 Written by Shiven Saini :)
 This program will find day of any date entered.
+TODO refactor to use match-case https://www.pythonpool.com/match-case-python/
+
 """
 month_list = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
