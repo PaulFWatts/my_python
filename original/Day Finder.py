@@ -118,7 +118,7 @@ def getDay(date, month, year):
 	dayCode = calDay(date, month, year)
 
 	if dayCode == 0:
-		retunr("Sunday")
+		return("Sunday")
 	elif dayCode == 1:
 		return("Monday")
 	elif dayCode == 2:
